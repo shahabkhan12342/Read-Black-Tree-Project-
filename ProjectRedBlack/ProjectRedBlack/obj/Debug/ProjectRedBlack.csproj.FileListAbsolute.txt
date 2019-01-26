@@ -1,0 +1,12 @@
+c:\users\dell\documents\visual studio 2013\Projects\ProjectRedBlack\ProjectRedBlack\bin\Debug\ProjectRedBlack.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\ProjectRedBlack\ProjectRedBlack\obj\Debug\ProjectRedBlack.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\ProjectRedBlack\ProjectRedBlack\bin\Debug\ProjectRedBlack.exe
+c:\users\dell\documents\visual studio 2013\Projects\ProjectRedBlack\ProjectRedBlack\bin\Debug\ProjectRedBlack.pdb
+c:\users\dell\documents\visual studio 2013\Projects\ProjectRedBlack\ProjectRedBlack\obj\Debug\ProjectRedBlack.exe
+c:\users\dell\documents\visual studio 2013\Projects\ProjectRedBlack\ProjectRedBlack\obj\Debug\ProjectRedBlack.pdb
+C:\Users\DELL\Desktop\ProjectRedBlack\ProjectRedBlack\bin\Debug\ProjectRedBlack.exe.config
+C:\Users\DELL\Desktop\ProjectRedBlack\ProjectRedBlack\obj\Debug\ProjectRedBlack.exe
+C:\Users\DELL\Desktop\ProjectRedBlack\ProjectRedBlack\obj\Debug\ProjectRedBlack.pdb
+C:\Users\DELL\Desktop\ProjectRedBlack\ProjectRedBlack\bin\Debug\ProjectRedBlack.exe
+C:\Users\DELL\Desktop\ProjectRedBlack\ProjectRedBlack\bin\Debug\ProjectRedBlack.pdb
+C:\Users\DELL\Desktop\ProjectRedBlack\ProjectRedBlack\obj\Debug\ProjectRedBlack.csprojResolveAssemblyReference.cache
